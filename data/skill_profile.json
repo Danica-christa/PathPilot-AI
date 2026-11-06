@@ -1,0 +1,29 @@
+{
+    "topic_scores": {
+        "Coding - Java Output": 0.0,
+        "Coding - OOP": 0.0,
+        "Coding - Strings": 0.0,
+        "Coding - Arrays": 0.0,
+        "Coding - Loops": 100.0,
+        "Aptitude - Time and Work": 100,
+        "Aptitude - Simple and Compound Interest": 17,
+        "Aptitude - Data Interpretation": 50,
+        "Logical Reasoning - Number Series": 0,
+        "Aptitude - Percentages": 25,
+        "Verbal Ability - Prepositions": 50,
+        "Logical Reasoning - Analogy": 50,
+        "Verbal Ability - Antonyms": 0,
+        "Logical Reasoning - Odd One Out": 0
+    },
+    "weak_topics": [
+        "Coding - Java Output",
+        "Coding - OOP",
+        "Coding - Strings",
+        "Coding - Arrays",
+        "Aptitude - Simple and Compound Interest",
+        "Logical Reasoning - Number Series",
+        "Aptitude - Percentages",
+        "Verbal Ability - Antonyms",
+        "Logical Reasoning - Odd One Out"
+    ]
+}
